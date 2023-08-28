@@ -1,3 +1,3 @@
 * My read me
- ubuntu 0x00 vagrant
+ ubuntu 0x00 vagrant.
 
