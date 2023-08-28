@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-* My read me
+My read me
  ubuntu 0x00 vagrant.
 =======
 This is my read me file on vagrant .
